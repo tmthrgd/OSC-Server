@@ -1,2 +1,2 @@
-OSC-Server
+OSC Server
 ==========
